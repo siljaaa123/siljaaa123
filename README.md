@@ -12,7 +12,7 @@
 - 🌍 **Environmental Advocate**: My background in Environmental Sciences fuels my passion for sustainable technology and eco-friendly coding practices.
 - 🚀 **Le Wagon Bootcamp Projects**:
   - [ExploreLog](https://github.com/siljaaa123/Explore_Log), a travel log app that combines technology with creativity, allowing users to map their journeys and create digital scrapbooks.
-  - [Imaginanny](https://imaginanny-decd13c8a29f.herokuapp.com/), an AirBnB clone website to book fictional characters as a nanny for your little one.
+  - [Imaginanny](https://github.com/siljaaa123/imaginanny), an AirBnB clone website to book fictional characters as a nanny for your little one.
 
 
 ### Fun Fact

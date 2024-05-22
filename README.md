@@ -10,7 +10,10 @@
 ### Highlights
 
 - 🌍 **Environmental Advocate**: My background in Environmental Sciences fuels my passion for sustainable technology and eco-friendly coding practices.
-- 🚀 **Innovative Projects**: I've worked on projects like ExploreLog, a travel log app that combines technology with creativity, allowing users to map their journeys and create digital scrapbooks.
+- 🚀 **Innovative Projects**:
+  - [ExploreLog](https://www.explorelog.me/journeys), a travel log app that combines technology with creativity, allowing users to map their journeys and create digital scrapbooks.
+  - [Imaginanny]([https://www.explorelog.me/journeys](https://imaginanny-decd13c8a29f.herokuapp.com/)), an AirBnB clone website to book fictional characters as a nanny for your little one.
+
 
 ### Fun Fact
 

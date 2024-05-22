@@ -11,7 +11,6 @@
 
 - 🌍 **Environmental Advocate**: My background in Environmental Sciences fuels my passion for sustainable technology and eco-friendly coding practices.
 - 🚀 **Innovative Projects**: I've worked on projects like ExploreLog, a travel log app that combines technology with creativity, allowing users to map their journeys and create digital scrapbooks.
-- 💡 **Skills**: Proficient in HTML, CSS, JavaScript, Ruby on Rails, GitHub, SQL, Heroku, and Figma.
 
 ### Skills
 

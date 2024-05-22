@@ -12,6 +12,10 @@
 - 🌍 **Environmental Advocate**: My background in Environmental Sciences fuels my passion for sustainable technology and eco-friendly coding practices.
 - 🚀 **Innovative Projects**: I've worked on projects like ExploreLog, a travel log app that combines technology with creativity, allowing users to map their journeys and create digital scrapbooks.
 
+### Fun Fact
+
+- 🎨 **Creativity Beyond Code**: When I'm not coding, you'll find me engaged in creative pursuits like drawing, photography, and exploring new art forms.
+
 ### Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,7 +26,3 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### Fun Fact
-
-- 🎨 **Creativity Beyond Code**: When I'm not coding, you'll find me engaged in creative pursuits like drawing, photography, and exploring new art forms.
